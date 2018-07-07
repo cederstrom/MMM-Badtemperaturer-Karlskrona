@@ -14,4 +14,4 @@ Add it in your config like this:
 
 This how it will look:
 
- ![Screen shot](https://github.com/cederstrom/MMM-Badtemperaturer-Karlskrona/blob/screen-shot/Screen%20Shot.png)
+ ![Screen shot](https://github.com/cederstrom/MMM-Badtemperaturer-Karlskrona/blob/master/Screen%20Shot.png)
