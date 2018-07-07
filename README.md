@@ -1,6 +1,6 @@
 # MMM-Badtemperaturer-Karlskrona
 
-No config needed! By default the refresh intervall is set to 10 minutes.
+Shows current water temperature at beaches in Karlskrona, Sweden. Data is fetched from Karlskrona munipacity API dedicated to water temperature. More info can be found here https://buoy.ioe.allbin.se/
 
 Add it in your config like this:
 
