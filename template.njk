@@ -1,0 +1,12 @@
+{% if bouys %}
+  <table class="small">
+    {% for bouy in bouys %}
+      <tr>
+        <td class="align-left beach-name">{{ bouy.name }}</td>
+        <td class="align-right bright">{{ bouy.temperature | round }}°</td>
+      </tr>
+    {% endfor %}
+  </table>
+{% else %}
+  <li>{{ "LOADING" | translate | safe }}</li>
+{% endif %}
